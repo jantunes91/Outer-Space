@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="library">
+      <UniqueIdentifier>{04fb0872-b8fd-446e-b546-051c81190407}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Includes">
+      <UniqueIdentifier>{61ff4fdc-81ef-47b2-9dcf-9abf6ad99a26}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyFleet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreDisplay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Powerup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExtraLifePowerup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IncreaseFireRatePowerup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyBullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\lib.cpp">
+      <Filter>library</Filter>
+    </ClCompile>
+    <ClCompile Include="SquidEnemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CrabEnemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OctopusEnemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lib\lib.h">
+      <Filter>library</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyFleet.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOver.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Powerup.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreDisplay.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleScreen.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyBullet.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="ExtraLifePowerup.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="IncreaseFireRatePowerup.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBullet.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="SquidEnemy.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="CrabEnemy.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="OctopusEnemy.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
